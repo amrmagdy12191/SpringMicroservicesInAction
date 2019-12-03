@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Built-By: amrmagdy
+Build-Jdk: 11.0.1
+Implementation-Title: Eagle Eye Licensing Service
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.thoughtmechanix
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/licensing-serv
+ ice/
+Main-Class: com.thoughtmechanix.licenses.Application
+Created-By: Maven Integration for Eclipse
+
